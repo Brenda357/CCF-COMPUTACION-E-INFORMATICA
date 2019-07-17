@@ -1,0 +1,24 @@
+#div{ 
+border:1px solid red; 
+height:10%; 
+width:99%; 
+overflow:auto; 
+} 
+.menu{
+
+    float: left;
+	width: 60%;
+	height:25%;
+	background-color: pink	}
+.menu1{
+      float: left;
+	width: 60%;
+	height:25%;
+	background-color: beige	}
+
+title{
+	text-align:center;
+}
+img{
+	float: right;
+	margin-right: :600px;
